@@ -85,7 +85,9 @@ def score_model(data, scores, cfg, n_step, cols_to_shift, debug=False):
             filterwarnings("ignore")
             result, predicted = walk_forward_validation(data, cfg, n_step, cols_to_shift)
     except Exception as e:
-        raise e
+        print(key)
+        print(e)
+        result = None
     # check for an interesting result
     if result is not None:
         print(' > Model[%s] %.3f' % (key, result))
