@@ -1,0 +1,18 @@
+slide 1
+
+slide 2
+- this virus is transmitted by day biting Aedes aegypti and Aedes albopictus mosquitoes.
+
+slide 4 
+- so actually doh has a national dengue prevention and control program and these are the 6 components of that program.
+- as a data scientist, 2 main points of interest i found easily accessible are case surveillance and outbreak response
+- if we are able to detect spikes in dengue cases early, we are able to respond better to outbreaks.
+- we also create an opportunity for public health authorities to properly adjust to outbreaks in terms of preparation and creating public awareness
+
+slide 8
+- 2 things to take note of right now is:
+    - spike of cases around the july-august mark which might indicate a yearly seasonality
+    - large outbreaks every 2 years which might indicate a biennial seasonality
+
+stationarity 
+    - constant mean, standard dev, and variance in any given time frame for your time series data
