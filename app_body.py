@@ -464,6 +464,8 @@ Observations:
 
 Note:
 - These results were taken from my thesis project as an undergrad.
+
+Credit to my undergrad thesis partner for these results and allowing me to use our data for this project - [Farshana Datukon](https://www.linkedin.com/in/fdat/)!!
         '''
     )
     st.write('')
